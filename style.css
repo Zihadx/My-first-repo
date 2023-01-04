@@ -6,3 +6,10 @@ div{
 .identity{
     color: brown;
 }
+.card{
+    text-align: center;
+    text:50px;
+    color: crimson;
+    padding: 300px 500px;
+    margin: 0 400px;
+}
